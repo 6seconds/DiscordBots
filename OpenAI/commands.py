@@ -14,7 +14,7 @@ client_status = True
 
 @client.event
 async def on_ready():
-  await client.change_presence(status = discord.Status.idle, activity = discord.Streaming(name="watch my queen w/me", url='https://www.twitch.tv/amouranth'))
+  await client.change_presence(status = discord.Status.idle, activity = discord.Streaming(name="PLACEHOLDER", url='PLACEHOLDER'))
   print('We have logged in as {0.user}'.format(client))
 
   try:
