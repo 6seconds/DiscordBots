@@ -4,7 +4,7 @@ from response import edit_result
 from commands import client
 
 #API KEY
-openai_api_key = "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"
+openai_api_key = "INSERT KEY"
 
 #------------------------------------------------------------------------------------------------------------------------------------------
 # MESSAGE EVENT
